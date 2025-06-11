@@ -44,4 +44,8 @@ The dashboard enables users—researchers, analysts, decision-makers, and the ge
 
 ---
 
+- 👌 **Screenshots of Dashboard**:
+![Screenshot 2025-06-05 151233](https://github.com/user-attachments/assets/9dbfa7ad-d2d6-440b-8712-183662378250)
+![Screenshot 2025-06-05 151253](https://github.com/user-attachments/assets/7195c292-7131-49b8-9f1e-524f1c877828)
+
 
